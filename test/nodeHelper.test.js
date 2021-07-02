@@ -1,5 +1,5 @@
 const helper = require('../src/auxfiles/nodeHelper');
-describe('', () => {
+describe('node helper tests', () => {
   let node;
   beforeEach(() => {
     node = 'ns:Nombre_Random';
